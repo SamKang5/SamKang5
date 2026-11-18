@@ -2,9 +2,7 @@
 
 **Aspiring software engineer · Full-stack web & Android**
 
-[![Mars Navigator showing Jezero Crater terrain, routes to waypoint B, and the controls for choosing a shortest or terrain-aware path.](./assets/mars-navigator.webp)](https://mars-navigator.pages.dev/)
-
-<sub>**Mars Navigator** · Route planning on the western fan of Jezero Crater.</sub>
+![KHANG. — Software, systems, ideas. Personal developer portfolio banner with code, mobile, and data visuals.](./assets/khang-hero.svg)
 
 I like building software around a concrete question. How does a route change when it crosses a steep slope? How should a screen-time app behave when a phone goes offline? Those questions shape what I build and what I test.
 
