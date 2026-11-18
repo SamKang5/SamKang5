@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="65" height="26" viewBox="0 0 65 26">
-  <rect x=".5" y=".5" width="64" height="25" rx="6.5" fill="#26304a" stroke="#776894"/>
-  <circle cx="11" cy="13" r="3" fill="#cfb7ff"/>
-  <text x="20" y="13" dominant-baseline="central" fill="#f0e5ff" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Kotlin</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="27" viewBox="0 0 70 27" role="img" aria-labelledby="label">
+  <title id="label">Kotlin</title>
+  <rect x=".5" y=".5" width="69" height="26" rx="4" fill="#0D2230" stroke="#395565"/>
+  <g fill="none" stroke="#7FE7D6" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="6" width="9" height="14" rx="1.6"/><path d="M12 17h3"/></g>
+  <text x="28" y="18" fill="#E6F1F7" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Kotlin</text>
 </svg>
