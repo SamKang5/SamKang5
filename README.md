@@ -2,8 +2,6 @@
 
 **Aspiring software engineer · Full-stack web & Android**
 
-![KHANG. — Software, systems, ideas. Personal developer portfolio banner with code, mobile, and data visuals.](./assets/khang-hero.svg)
-
 I like building software around a concrete question. How does a route change when it crosses a steep slope? How should a screen-time app behave when a phone goes offline? Those questions shape what I build and what I test.
 
 ## Featured projects
