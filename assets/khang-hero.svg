@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="600" viewBox="0 0 1800 600" role="img" aria-labelledby="title desc">
+<title id="title">KHANG. — Software, systems, ideas</title>
+<desc id="desc">A minimalist developer identity banner for Pham Hoang Khang, with mint highlights and outline illustrations of code, mobile apps, and data dashboards.</desc>
+<rect width="1800" height="600" fill="#11191F"/>
+<g fill="none" stroke="#82DCCB" stroke-width="5" stroke-linecap="square">
+<path d="M48 91V49h42M1710 49h42v42M48 509v42h42M1710 551h42v-42"/>
+</g>
+<rect x="123" y="139" width="6" height="31" fill="#82DCCB"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="148" y="164" fill="#E7EFF0" font-size="26" font-weight="600" letter-spacing="4">PHAM HOANG KHANG</text>
+<text x="500" y="164" fill="#82DCCB" font-size="26" letter-spacing="1">/</text>
+<text x="530" y="164" fill="#A5B7BB" font-size="26" letter-spacing="4">SAMKANG5</text>
+<text x="114" y="359" fill="#F7FAFA" font-size="170" font-weight="800" letter-spacing="-8">KHANG</text>
+<rect x="755" y="327" width="34" height="34" rx="3" fill="#82DCCB"/>
+<text x="125" y="432" fill="#D6E4E4" font-size="32" font-weight="500" letter-spacing="5">SOFTWARE</text>
+<circle cx="354" cy="423" r="4" fill="#82DCCB"/>
+<text x="379" y="432" fill="#D6E4E4" font-size="32" font-weight="500" letter-spacing="5">SYSTEMS</text>
+<circle cx="585" cy="423" r="4" fill="#82DCCB"/>
+<text x="611" y="432" fill="#D6E4E4" font-size="32" font-weight="500" letter-spacing="5">IDEAS</text>
+</g>
+<path d="M126 480H813" fill="none" stroke="#82DCCB" stroke-width="5"/>
+<g fill="none" stroke="#E1E9EB" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+<rect x="1321" y="126" width="373" height="207" rx="15"/>
+<path d="M1321 166h373"/>
+<circle cx="1347" cy="146" r="5" fill="#E1E9EB" stroke="none"/>
+<circle cx="1365" cy="146" r="5" fill="#E1E9EB" stroke="none"/>
+<circle cx="1383" cy="146" r="5" fill="#E1E9EB" stroke="none"/>
+<rect x="1024" y="215" width="495" height="260" rx="16" fill="#11191F"/>
+<path d="M1024 259h495M1144 259v216"/>
+<circle cx="1053" cy="238" r="5" fill="#E1E9EB" stroke="none"/>
+<circle cx="1075" cy="238" r="5" fill="#E1E9EB" stroke="none"/>
+<circle cx="1097" cy="238" r="5" fill="#E1E9EB" stroke="none"/>
+<path d="M1050 292h61M1050 324h48M1050 356h66M1050 388h36M1050 420h57" stroke-width="3"/>
+<path d="M1195 357h151M1195 414h85M1298 414h33M1195 438h111" stroke-width="4"/>
+<rect x="1455" y="334" width="163" height="202" rx="19" fill="#11191F"/>
+<path d="M1514 349h45"/>
+<rect x="1480" y="385" width="47" height="48" rx="7"/>
+<rect x="1545" y="385" width="47" height="48" rx="7"/>
+<rect x="1480" y="449" width="47" height="48" rx="7"/>
+</g>
+<g fill="#82DCCB">
+<rect x="1545" y="449" width="47" height="48" rx="7"/>
+<rect x="1509" y="270" width="17" height="44"/>
+<rect x="1540" y="245" width="17" height="69"/>
+<rect x="1571" y="226" width="17" height="88"/>
+<rect x="1602" y="198" width="17" height="116"/>
+</g>
+<g fill="none" stroke="#82DCCB" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+<path d="M1220 296l-20 17 20 17M1282 296l20 17-20 17M1262 293l-22 42"/>
+<path d="M1196 379h215"/>
+</g>
+</svg>
