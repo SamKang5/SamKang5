@@ -1,4 +1,4 @@
-# Hi, I’m Hoang Khang Pham
+# Hi, I’m Pham Hoang Khang
 
 **Aspiring software engineer · Full-stack web & Android**
 
