@@ -39,9 +39,7 @@ I’m currently learning about applied AI, data analytics, and application secur
 
 ## Languages across these projects
 
-Each filled segment represents one featured repository where GitHub detected the language in November 2026.
-
-![Of the three featured repositories, three contain TypeScript, three contain JavaScript, one contains Kotlin, and one contains Python.](./assets/languages.svg)
+TypeScript and JavaScript appear across all three featured repositories. Kotlin appears in Learn2Earn, and Python appears in one featured repository.
 
 [Browse all public repositories](https://github.com/SamKang5?tab=repositories)
 

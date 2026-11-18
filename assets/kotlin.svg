@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 34" width="92" height="34" role="img" aria-labelledby="label">
   <title id="label">Kotlin</title>
   <rect x=".5" y=".5" width="91" height="33" rx="6" fill="#151B20" stroke="#35414A"/>
-  <svg x="10" y="7" width="20" height="20" viewBox="0 0 24 24" fill="#91DBCD">
+  <svg x="10" y="7" width="20" height="20" viewBox="0 0 24 24" fill="#FFFFFF">
     <path d="M24 24H0V0h24L12 12Z"/>
   </svg>
   <text x="39" y="22" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#E7EDF1">Kotlin</text>
