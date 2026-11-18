@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="193" height="26" viewBox="0 0 193 26">
-  <rect x=".5" y=".5" width="192" height="25" rx="6.5" fill="#302b24" stroke="#946c49"/>
-  <circle cx="11" cy="13" r="3" fill="#ffc891"/>
-  <text x="20" y="13" dominant-baseline="central" fill="#ffead3" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Cloudflare Pages Functions</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 34" width="224" height="34" role="img" aria-labelledby="label">
+  <title id="label">Cloudflare Pages Functions</title>
+  <rect x=".5" y=".5" width="223" height="33" rx="6" fill="#151B20" stroke="#35414A"/>
+  <svg x="10" y="7" width="20" height="20" viewBox="0 0 48 48" fill="#FFFFFF">
+    <path d="m21.375 7.5-1.95 3H9v27h8.7l-.525 3H7.5L6 39V9l1.5-1.5zm9.45 0H40.5L42 9v30l-1.5 1.5H26.625l1.95-3H39v-27h-8.7z"/><path d="M21.45 28.5h-8.7l-1.275-2.325 15.6-24 2.7 1.125-3.225 16.2h8.7l1.275 2.325-15.6 24-2.7-1.125zM11.175 13.725a1.05 1.05 0 1 0 0-2.1 1.05 1.05 0 0 0 0 2.1m2.775 0a1.05 1.05 0 1 0 0-2.1 1.05 1.05 0 0 0 0 2.1m2.775 0a1.05 1.05 0 1 0 0-2.1 1.05 1.05 0 0 0 0 2.1"/>
+  </svg>
+  <text x="39" y="22" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#E7EDF1">Cloudflare Pages Functions</text>
 </svg>
