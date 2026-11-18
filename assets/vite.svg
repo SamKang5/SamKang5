@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="58" height="27" viewBox="0 0 58 27" role="img" aria-labelledby="label">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79 34" width="79" height="34" role="img" aria-labelledby="label">
   <title id="label">Vite</title>
-  <rect x=".5" y=".5" width="57" height="26" rx="4" fill="#0D2230" stroke="#395565"/>
-  <g fill="none" stroke="#7FE7D6" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"><path d="m10 9-4 4 4 4m6-8 4 4-4 4"/></g>
-  <text x="28" y="18" fill="#E6F1F7" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Vite</text>
+  <rect x=".5" y=".5" width="78" height="33" rx="6" fill="#151B20" stroke="#35414A"/>
+  <svg x="10" y="7" width="20" height="20" viewBox="0 0 24 24" fill="#91DBCD">
+    <path d="M13.056 23.238a.57.57 0 0 1-1.02-.355v-5.202c0-.63-.512-1.143-1.144-1.143H5.148a.57.57 0 0 1-.464-.903l3.777-5.29c.54-.753 0-1.804-.93-1.804H.57a.574.574 0 0 1-.543-.746.6.6 0 0 1 .08-.157L5.008.78a.57.57 0 0 1 .467-.24h14.589a.57.57 0 0 1 .466.903l-3.778 5.29c-.54.755 0 1.806.93 1.806h5.745c.238 0 .424.138.513.322a.56.56 0 0 1-.063.603z"/>
+  </svg>
+  <text x="39" y="22" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#E7EDF1">Vite</text>
 </svg>
